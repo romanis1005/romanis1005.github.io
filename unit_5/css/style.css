@@ -8,7 +8,15 @@ body {
 	color: #333;
 	font-family: 'Montserrat', sans-serif;
 }
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
 nav {
+	background-color: #E8C66A;
+	border; 1px black solid;
+	padding: 20px;
 	text-align: right;
 	font-weight: bold;
 	margin: 16px;
@@ -65,4 +73,12 @@ ul {
 footer {
 	text-align: center;
 	margin: 10px;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
 }
