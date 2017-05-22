@@ -43,6 +43,25 @@ img {
 #two_column img {
 	width: 50%;
 	float: left;
+	/*background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;*/
+}
+
+#left {
+    /*background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;*/
+}
+
+#right {
+    /*background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;*/
 }
 
 main {
@@ -68,10 +87,10 @@ footer {
 	margin: 10px;
 }
 .clearfix:after, #two_column:after {
-	clear:both;
-	content:"";
-	display:block;
-	height:0;
-	visibility:hidden;
+	clear: both;
+	content: "";
+	display: block;
+	height: 0;
+	visibility: hidden;
 }
 
